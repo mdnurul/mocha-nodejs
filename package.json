@@ -1,0 +1,25 @@
+{
+  "name": "Mocha",
+  "version": "0.0.0",
+  "description": "test case nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "describe": "~1.2.0",
+    "chai": "~3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "~2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "testcase"
+  ],
+  "author": "Bitcanny",
+  "license": "BSD"
+}
